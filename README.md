@@ -7,7 +7,14 @@ Follow-along from Noah Gift's session on O'Reilly Live Learning
 
 - Create dev env taht is cloud-based:
   - **Colab Notebook**
+    - Example notebook created with Google [colab](https://github.com/noahgift/python-for-devops-may-2022/blob/main/getting_started_python.ipynb)
   - **GitHub Codespaces**
+    - Build out python project scaffold:
+      - Makefile
+      - `requirements.txt`
+      - tktktk
+      - tktktk
+      - tktktk  
   - **AWS Cloudshell**
   - **AWS Cloud9**
   
