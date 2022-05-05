@@ -12,9 +12,11 @@ Follow-along from Noah Gift's session on O'Reilly Live Learning
     - Build out python project scaffold:
       - Makefile
       - `requirements.txt`
-      - tktktk
-      - tktktk
-      - tktktk  
+      - `test_library.py`
+      - python_library
+      - `Dockerfile`
+      - command-line-tool
+      - microservice
   - **AWS Cloudshell**
   - **AWS Cloud9**
   
